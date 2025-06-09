@@ -1,0 +1,318 @@
+{
+  "data":{
+    "products": [
+    {
+      "id": 1,
+      "product_url": "https://panafrica-store.com/products/arusha-safou",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/RUN-532_ARUSHA-SAFOU_1_2.jpg?v=1739438406&width=2080",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/RUN-532_ARUSHA-SAFOU_3_2.jpg?v=1739438409&width=2080",
+      "name": "Arusha-safou",
+      "price": "149€",
+      "sizes": [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46],
+      "model_count": "14 modèles"
+    },
+
+    {
+      "id": 2,
+      "product_url": "https://panafrica-store.com/products/arusha-lime",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/RUN-534_ARUSHA-LIME_1.jpg?v=1728487909&width=2080",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/RUN-534_ARUSHA-LIME_3.jpg?v=1728487908&width=2080",
+      "name": "Arusha-lime",
+      "price": "149€",
+      "sizes": [36, 38, 40, 41, 42, 43, 44, 45, 46],
+      "model_count": "14 modèles"
+    },
+
+    {
+      "id": 3,
+      "product_url": "https://panafrica-store.com/products/arusha-ivoire",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/RUN-06_Arusha-ivoire_01.jpg?v=1723643142&width=2080",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/RUN-06_Arusha-ivoire_04.jpg?v=1723643143&width=2080",
+      "name": "Arusha-Ivoire",
+      "price": "149€",
+      "sizes": [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46],
+      "model_count": "14 modèles"
+    },
+
+    {
+      "id": 4,
+      "product_url": "https://panafrica-store.com/products/arusha-ocean",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/RUN-538ARUSHA-OCEAN_1.jpg?v=1740747812&width=2080",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/RUN-538ARUSHA-OCEAN_4.jpg?v=1740747815&width=2080",
+      "name": "Arusha-Océan",
+      "price": "149€",
+      "sizes": [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46],
+      "model_count": "14 modèles"
+    },
+
+    {
+      "id": 5,
+      "product_url": "https://panafrica-store.com/products/arusha-kiwano",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/RUN-531_ARUSHA-KIWANO_1_3.jpg?v=1744981540&width=2080",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/RUN-531_ARUSHA-KIWANO_4_3.jpg?v=1744981540&width=2080",
+      "name": "Arusha-kiwano",
+      "price": "149€",
+      "sizes": [36, 37, 39, 42, 43, 44, 45, 46],
+      "model_count": "14 modèles"
+    },
+
+    {
+      "id": 6,
+      "product_url": "https://panafrica-store.com/products/arusha-ebene",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/Arusha-Ebene-1916323.jpg?v=1722324893&width=1600",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/Arusha-Ebene-1916326.jpg?v=1722324901&width=1600",
+      "name": "Arusha-Ébène",
+      "price": "149€",
+      "sizes": [36, 37, 38, 39, 44, 45, 46],
+      "model_count": "14 modèles"
+    },
+
+    {
+      "id": 7,
+      "product_url": "https://panafrica-store.com/products/arusha-grenade-1",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/RUN-533_ARUSHA-GRENADE_1_2.jpg?v=1747400284&width=2080",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/RUN-533_ARUSHA-GRENADE_3_2.jpg?v=1747400284&width=2080",
+      "name": "Arusha-grenade",
+      "price": "149€",
+      "sizes": [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46],
+      "model_count": "14 modèles"
+    },
+
+    {
+      "id": 8,
+      "product_url": "https://panafrica-store.com/products/arusha-niagara",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/Arusha-Niagara-1916437.jpg?v=1722325140&width=1600",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/Arusha-Niagara-1916440.jpg?v=1722325148&width=1600",
+      "name": "Arusha-Niagara",
+      "price": "149€",
+      "sizes": [36, 37, 39, 42, 43, 44, 45, 46],
+      "model_count": "14 modèles"
+    },
+
+    {
+      "id": 9,
+      "product_url": "https://panafrica-store.com/products/arusha-beige",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/Arusha-Beige-1916228.jpg?v=1722324710&width=1600",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/Arusha-Beige-1916233.jpg?v=1722324718&width=1600",
+      "name": "Arusha-Beige",
+      "price": "149€",
+      "sizes": [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46],
+      "model_count": "14 modèles"
+    },
+
+    {
+      "id": 10,
+      "product_url": "https://panafrica-store.com/products/arusha-camerise",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/RUN-530_ARUSHA-CAMERISE_1_2.jpg?v=1739462173&width=2080",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/RUN-530_ARUSHA-CAMERISE_3_2.jpg?v=1739462178&width=2080",
+      "name": "Arusha-camerise",
+      "price": "149€",
+      "sizes": [36, 37, 38, 39, 40, 41, 42, 43, 44, 46],
+      "model_count": "14 modèles"
+    },
+
+    {
+      "id": 11,
+      "product_url": "https://panafrica-store.com/products/bata",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/O-536_BATA_1.jpg?v=1740762476&width=2080",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/O-536_BATA_4.jpg?v=1740762478&width=2080",
+      "name": "Bata",
+      "price": "89€",
+      "sizes": [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46],
+      "model_count": "23 modèles"
+    },
+
+    {
+      "id": 12,
+      "product_url": "https://panafrica-store.com/products/zanzibar",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/O-502_ZANZIBAR_1_2.jpg?v=1739463842&width=2080",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/O-502_ZANZIBAR_3_2.jpg?v=1739463851&width=2080",
+      "name": "Zanzibar",
+      "price": "89€",
+      "sizes": [36, 37, 39, 40, 41, 42, 43, 44, 45, 46],
+      "model_count": "23 modèles"
+    },
+
+    {
+      "id": 13,
+      "product_url": "https://panafrica-store.com/products/nouakchott",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/O-505_NOUAKCHOTT_1.jpg?v=1728909905&width=2080",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/O-505_NOUAKCHOTT_3.jpg?v=1728909907&width=2080",
+      "name": "Nouakchott",
+      "price": "79€",
+      "sizes": [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46],
+      "model_count": "23 modèles"
+    },
+
+    {
+      "id": 14,
+      "product_url": "https://panafrica-store.com/products/conakry-1",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/A-537_CONAKRY_1_2.jpg?v=1744996617&width=2080",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/A-537_CONAKRY_4_2.jpg?v=1744996620&width=2080",
+      "name": "Conakry",
+      "price": "79€",
+      "sizes": [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46],
+      "model_count": "23 modèles"
+    },
+
+    {
+      "id": 15,
+      "product_url": "https://panafrica-store.com/products/kinshasa-1",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/Kinshasa-1917481.jpg?v=1722327462&width=1600",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/Kinshasa-1917485.jpg?v=1722327470&width=1600",
+      "name": "Kinshasa",
+      "price": "79€",
+      "sizes": [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46],
+      "model_count": "23 modèles"
+    },
+
+    {
+      "id": 16,
+      "product_url": "https://panafrica-store.com/products/dodoma",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/Dodoma-1916950.jpg?v=1722326295&width=1600",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/Dodoma-1916953.jpg?v=1722326303&width=1600",
+      "name": "Dodoma",
+      "price": "79€",
+      "sizes": [36, 37, 38, 39, 40, 41, 42, 43, 46, 45, 44],
+      "model_count": "23 modèles"
+    },
+
+    {
+      "id": 17,
+      "product_url": "https://panafrica-store.com/products/nairobi",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/Nairobi-1917679.jpg?v=1722327881&width=1600",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/Nairobi-1917684.jpg?v=1722327890&width=1600",
+      "name": "Nairobi",
+      "price": "79€",
+      "sizes": [37, 40, 41, 42, 44, 46, 45, 43, 39, 38, 36],
+      "model_count": "23 modèles"
+    },
+
+    {
+      "id": 18,
+      "product_url": "https://panafrica-store.com/products/dakar-1",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/O-507_DAKAR_1.jpg?v=1728908808&width=2080",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/O-507_DAKAR_3.jpg?v=1728908808&width=2080",
+      "name": "Dakar",
+      "price": "79€",
+      "sizes": [36, 37, 38, 39, 40, 41, 42, 43, 44, 46, 45],
+      "model_count": "23 modèles"
+    },
+
+    {
+      "id": 19,
+      "product_url": "https://panafrica-store.com/products/cotonou-2",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/O-504_COTONOU_1.jpg?v=1728908275&width=2080",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/O-504_COTONOU_3.jpg?v=1728908276&width=2080",
+      "name": "Cotonou",
+      "price": "79€",
+      "sizes": [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46],
+      "model_count": "23 modèles"
+    },
+
+    {
+      "id": 20,
+      "product_url": "https://panafrica-store.com/products/bamako",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/Bamako-1916717.jpg?v=1722325779&width=1600",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/Bamako-1916720.jpg?v=1722325787&width=1600",
+      "name": "Bamako",
+      "price": "89€",
+      "sizes": [36, 37, 38, 39, 41, 43, 45, 46, 44, 42, 40],
+      "model_count": "23 modèles"
+    },
+
+    {
+      "id": 21,
+      "product_url": "https://panafrica-store.com/products/kasai-beige",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/Kasai-Beige-1917205.jpg?v=1722326888&width=1600",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/Kasai-Beige-1917207.jpg?v=1722326895&width=1600",
+      "name": "Kasaï-Beige",
+      "price": "109€",
+      "sizes": [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46],
+      "model_count": "15 modèles"
+    },
+
+    {
+      "id": 22,
+      "product_url": "https://panafrica-store.com/products/kasai-corail",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/KA-454_Kasai-corail_01_aa7ccc71-72e3-496c-a953-297d26790bec.jpg?v=1725011077&width=2080",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/KA-454_Kasai-corail_04_191ac1db-20ca-49e2-a4d1-2c6b28538659.jpg?v=1725011077&width=2080",
+      "name": "Kasaï-corail",
+      "price": "109€",
+      "sizes": [36, 37, 38, 41, 42, 43, 46, 45, 40, 39, 44],
+      "model_count": "15 modèles"
+    },
+
+    {
+      "id": 23,
+      "product_url": "https://panafrica-store.com/products/kasai-kaki",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/Kasai-Kaki-1917257.jpg?v=1722327012&width=1600",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/Kasai-Kaki-1917260.jpg?v=1722327021&width=1600",
+      "name": "Kasaï-Kaki",
+      "price": "129€",
+      "sizes": [36, 39, 41, 42, 43, 44, 45, 46, 38, 37, 40],
+      "model_count": "15 modèles"
+    },
+
+    {
+      "id": 24,
+      "product_url": "https://panafrica-store.com/products/kasai-niagara-1",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/KAN-26_KASAI-NIAGARA_1.jpg?v=1743758593&width=2080",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/KAN-26_KASAI-NIAGARA_4_ab089056-96e8-4191-a9f4-dd096ce8f20b.jpg?v=1743758955&width=2080",
+      "name": "Kasaï-Niagara",
+      "price": "129€",
+      "sizes": [36, 46, 41, 42, 43, 44, 45, 40, 38, 37, 39],
+      "model_count": "15 modèles"
+    },
+
+    {
+      "id": 25,
+      "product_url": "https://panafrica-store.com/products/bini-litchi",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/BI-525BINI-LITCHI_1.jpg?v=1740753920&width=2080",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/BI-525BINI-LITCHI_4.jpg?v=1740753924&width=2080",
+      "name": "Bini-litchi",
+      "price": "95€",
+      "sizes": [36, 37, 38, 39, 41, 42],
+      "model_count": "6 modèles",
+      "badge": "Vegan"
+    },
+
+    {
+      "id": 26,
+      "product_url": "https://panafrica-store.com/products/bini-tamarin",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/BI-524BINI-TAMARIN_1.jpg?v=1740752529&width=2080",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/BI-524BINI-TAMARIN_4.jpg?v=1740752608&width=2080",
+      "name": "Bini-tamarin",
+      "price": "95€",
+      "sizes": [36, 37, 38, 39, 40, 41, 42],
+      "model_count": "6 modèles",
+      "badge": "Vegan"
+    },
+
+    {
+      "id": 27,
+      "product_url": "https://panafrica-store.com/products/bini-melon",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/BI-522_BINI-MELON_1.jpg?v=1728900134&width=2080",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/BI-522_BINI-MELON_3.jpg?v=1728900134&width=2080",
+      "name": "Bini-melon",
+      "price": "95€",
+      "sizes": [36, 38, 39, 40, 41, 42],
+      "model_count": "6 modèles",
+      "badge": "Vegan"
+    },
+
+    {
+      "id": 28,
+      "product_url": "https://panafrica-store.com/products/bini-icaco",
+      "image_src": "https://panafrica-store.com/cdn/shop/files/BI-523_BINI-ICACO_1_2.jpg?v=1739441228&width=2080",
+      "image_src_2": "https://panafrica-store.com/cdn/shop/files/BI-523_BINI-ICACO_3_2.jpg?v=1739441249&width=2080",
+      "name": "Bini-icaco",
+      "price": "95€",
+      "sizes": [36, 37, 38, 39, 40, 41],
+      "model_count": "6 modèles",
+      "badge": "Vegan"
+    }
+  ]
+}
+}
+  
